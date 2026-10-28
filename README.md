@@ -1,4 +1,4 @@
 # GenAlyze
-Dual-channel audio signal generator for Android with oscilloscope, spectrum analyzer and stereo MPX encoder.
+Dual-channel audio signal generator, oscilloscope (Y-T & X-Y), spectrum analyzer, real-time octave analyzer (RTA) and stereo MPX / RDS encoder.
 
 **Soon to come!**
